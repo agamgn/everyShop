@@ -1,4 +1,9 @@
-/* 引入icon样式库 */
-@import '/style/icons.wxss';
-@import '/style/common.wxss';
-@import '/style/color.wxss';
+/**app.wxss**/
+.container {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+.hide{
+    display: none;
+}
