@@ -1,8 +1,0 @@
-<view class="container">
-    <view class='about-wrap'>
-        <view class='title'>个人小店</view>
-        <view class='content'>
-            开源微信小程序商城
-        </view>
-    </view>
-</view>
